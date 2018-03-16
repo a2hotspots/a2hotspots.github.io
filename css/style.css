@@ -949,9 +949,10 @@ input[type="text"] {
   color: #66D37E;
   padding-left: 10px;
   padding-right: 10px;
+  font-size: 30px;
 }
 .fh5co-social-icons li a i {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .fh5co-heading {
