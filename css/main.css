@@ -1,21 +1,4 @@
-:root {
-      --accent: #F18260;
-      --purple: #252431;
-    }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      background: #eee;
-      color: var(--purple);
-      padding: 10% 5%;
-      font-family: system, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      line-height: 1.4;
-    }
 
     .form-container {
       position: relative;
@@ -67,7 +50,6 @@
     }
 
     a {
-      display: block;
       width: max-content;
       margin: 0 auto;
       color: var(--accent);
